@@ -52,12 +52,12 @@ p {
     width: 100%;
     margin: 1rem 0;
     text-align: left;
-    border: 1px dashed gray;
+    border: 3px dotted gray;
     color: gray;
 }
 
 .btn:hover {
-    border: 1px dashed black;
+    border: 3px dotted black;
     color: black;
 }
 
@@ -97,7 +97,7 @@ a {
     left: 50%;
     top: 100%;
     transform: translateX(-50%);
-    border-bottom: 2px dotted gray;
+    border-bottom: 3px dotted gray;
     transition: all 0.25s;
 }
 
